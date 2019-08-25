@@ -1,0 +1,21 @@
+*ctrlp-message.txt*	vim message support for ctrlp
+wsdjeg                                         *ctrlp-message* *ctrlp-message*
+
+==============================================================================
+CONTENTS                                              *ctrlp-message-contents*
+  1. Introduction........................................|ctrlp-message-intro|
+  2. Commands.........................................|ctrlp-message-commands|
+
+==============================================================================
+INTRODUCTION                                             *ctrlp-message-intro*
+
+ctrlp-message is a ctrlp plugin to fuzzy find and yank message history.
+
+==============================================================================
+COMMANDS                                              *ctrlp-message-commands*
+
+:CtrlPMessage                                                  *:CtrlPMessage*
+  Open message history
+
+
+vim:tw=78:ts=8:ft=help:norl:
